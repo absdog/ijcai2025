@@ -1,0 +1,348 @@
+04/09/2025 12:55:37 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.060546875
+04/09/2025 12:56:35 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.060546875
+04/09/2025 13:30:48 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.060546875
+04/09/2025 13:33:43 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.0 f1: 0.0
+04/09/2025 13:34:14 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.2580960181451613
+04/09/2025 13:36:37 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.060546875
+04/09/2025 13:39:33 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.0 f1: 0.0
+04/09/2025 13:40:49 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.060546875
+04/09/2025 13:43:44 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.5969141755062681 f1: 0.5987084696746034
+04/09/2025 13:44:16 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.2587890625
+04/09/2025 13:44:47 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.2366162909836065
+04/09/2025 13:45:19 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.1953446943681318
+04/09/2025 13:45:51 - INFO - Multimodal ABSA -   epoch: [0] loss: 1.0501880488119835
+04/09/2025 13:49:06 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.6586306653809064 f1: 0.6484839134277024
+04/09/2025 13:49:38 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.8688504048530629
+04/09/2025 13:50:10 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.7376839653563104
+04/09/2025 13:50:41 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.6444860883233672
+04/09/2025 13:51:13 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.573729455718361
+04/09/2025 13:54:20 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.6634522661523626 f1: 0.6661138964030306
+04/09/2025 13:54:52 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.519117601683219
+04/09/2025 13:55:23 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.4746746937697908
+04/09/2025 13:55:55 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.4378192590442669
+04/09/2025 13:56:27 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.40926906342651703
+04/09/2025 13:59:34 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.648023143683703 f1: 0.6479743908665355
+04/09/2025 14:00:05 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.38305576256169077
+04/09/2025 14:00:37 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.3614161620513843
+04/09/2025 14:01:09 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.34306667649296596
+04/09/2025 14:01:40 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.32670892053235345
+04/09/2025 14:04:47 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.6374156219864995 f1: 0.6338865405721931
+04/09/2025 14:05:19 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.3122403075783687
+04/09/2025 14:05:51 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.2986037189109929
+04/09/2025 14:06:22 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.2869889397963542
+04/09/2025 14:06:54 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.2769065180951466
+04/09/2025 14:10:01 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.7367405978784957 f1: 0.7233996045718384
+04/09/2025 14:10:33 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.267607208288226
+04/09/2025 14:11:04 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.25978923312835
+04/09/2025 14:11:36 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.25135649061410026
+04/09/2025 14:12:07 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.2443978908819233
+04/09/2025 14:15:14 - INFO - Multimodal ABSA -   epoch: [0] acc: 0.7184185149469624 f1: 0.6902172714106227
+04/09/2025 14:15:46 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.23741614548725073
+04/09/2025 14:16:17 - INFO - Multimodal ABSA -   epoch: [0] loss: 0.23151501620166892
+04/09/2025 14:16:49 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06856346130371094
+04/09/2025 14:17:20 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.0790202928626019
+04/09/2025 14:20:27 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.6200578592092575 f1: 0.612872807925481
+04/09/2025 14:20:58 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.08225752177991365
+04/09/2025 14:21:30 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.08337028071565449
+04/09/2025 14:22:01 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.0804276185877183
+04/09/2025 14:22:33 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07598263384347939
+04/09/2025 14:25:40 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.7222757955641272 f1: 0.7239090292883271
+04/09/2025 14:26:11 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07300849836699817
+04/09/2025 14:26:42 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07175643043180482
+04/09/2025 14:27:14 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07294470071792603
+04/09/2025 14:27:45 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07232830741188744
+04/09/2025 14:30:53 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.7319189971070396 f1: 0.7365700153678569
+04/09/2025 14:31:24 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07125485697879066
+04/09/2025 14:31:56 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.07044829109500599
+04/09/2025 14:32:27 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06992086958377919
+04/09/2025 14:32:59 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06839943871709514
+04/09/2025 14:36:06 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.7695274831243973 f1: 0.7703912921397428
+04/09/2025 14:36:38 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06745555422721652
+04/09/2025 14:37:10 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06750677992857577
+04/09/2025 14:37:41 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06772098041349842
+04/09/2025 14:38:13 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06714009513419844
+04/09/2025 14:41:20 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.7589199614271939 f1: 0.7635210488412488
+04/09/2025 14:41:51 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.0669445219657404
+04/09/2025 14:42:22 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06749831613013361
+04/09/2025 14:42:54 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06733696956139107
+04/09/2025 14:43:25 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06799452961782922
+04/09/2025 14:46:31 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.6258437801350049 f1: 0.6189641583951075
+04/09/2025 14:47:03 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06760474916040544
+04/09/2025 14:47:34 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06731472744820138
+04/09/2025 14:48:06 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06713327247163524
+04/09/2025 14:48:37 - INFO - Multimodal ABSA -   epoch: [1] loss: 0.06800442825098262
+04/09/2025 14:51:44 - INFO - Multimodal ABSA -   epoch: [1] acc: 0.6557377049180327 f1: 0.5744058953617354
+04/09/2025 14:52:15 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.049072265625
+04/09/2025 14:52:46 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.07468709638041834
+04/09/2025 14:53:18 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.07665040063076332
+04/09/2025 14:53:49 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.07586368099673764
+04/09/2025 14:56:56 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.6470588235294118 f1: 0.6432406702585847
+04/09/2025 14:57:28 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.07263833038077867
+04/09/2025 14:57:59 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06950080315798324
+04/09/2025 14:58:30 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06733912789360594
+04/09/2025 14:59:02 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.0671586176795417
+04/09/2025 15:03:04 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.7801350048216008 f1: 0.7809690048890027
+04/09/2025 15:03:35 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06636677738047239
+04/09/2025 15:04:07 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06861976327931309
+04/09/2025 15:04:38 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06849566805006262
+04/09/2025 15:05:10 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.0670416592831338
+04/09/2025 15:10:53 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.6991321118611379 f1: 0.6499403566738681
+04/09/2025 15:11:25 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06777480962864249
+04/09/2025 15:11:56 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06571668005355484
+04/09/2025 15:12:28 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06529447188569927
+04/09/2025 15:12:59 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06497917471333776
+04/09/2025 15:16:13 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.742526518804243 f1: 0.7262167860694414
+04/09/2025 15:16:44 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06534026219294621
+04/09/2025 15:17:16 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06467122154459795
+04/09/2025 15:17:47 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.0646892783822502
+04/09/2025 15:18:18 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06497944132041597
+04/09/2025 15:21:28 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.7608486017357763 f1: 0.7630697169001947
+04/09/2025 15:22:00 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.0650506122735098
+04/09/2025 15:22:31 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06523051465936773
+04/09/2025 15:23:02 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06534241836478598
+04/09/2025 15:23:34 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06442485359401676
+04/09/2025 15:29:52 - INFO - Multimodal ABSA -   epoch: [2] acc: 0.7666345226615237 f1: 0.7696787855895579
+04/09/2025 15:30:23 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.0645185217943337
+04/09/2025 15:30:55 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06447865642339348
+04/09/2025 15:31:26 - INFO - Multimodal ABSA -   epoch: [2] loss: 0.06499301089825306
+04/09/2025 15:31:57 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.04985928535461426
+04/09/2025 15:35:03 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7502410800385728 f1: 0.7371457415810561
+04/09/2025 15:35:34 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.07242252515709918
+04/09/2025 15:36:06 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.069244384765625
+04/09/2025 15:36:37 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.0686012124115566
+04/09/2025 15:37:09 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.061806229984059054
+04/09/2025 15:44:50 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7791706846673095 f1: 0.7784075323708599
+04/09/2025 15:45:21 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.06001875199467303
+04/09/2025 15:45:53 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.057616258154110034
+04/09/2025 15:46:24 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05883619004646234
+04/09/2025 15:46:55 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05908765271306038
+04/09/2025 15:50:01 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7579556412729026 f1: 0.7630076582620253
+04/09/2025 15:50:33 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05830958839896676
+04/09/2025 15:51:04 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.0571280612221247
+04/09/2025 15:51:35 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.055361929656453215
+04/09/2025 15:52:06 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05402073454349599
+04/09/2025 15:55:21 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7656702025072324 f1: 0.7675012327522924
+04/09/2025 15:55:53 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.052497284752982
+04/09/2025 15:56:24 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05163923206679318
+04/09/2025 15:56:55 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.0515801589376425
+04/09/2025 15:57:27 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05223776448157526
+04/09/2025 16:00:35 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7473481195756991 f1: 0.7227590276492049
+04/09/2025 16:01:06 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.051586890855216255
+04/09/2025 16:01:37 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05111389022936924
+04/09/2025 16:02:08 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05051848831437147
+04/09/2025 16:02:39 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.0508073614789294
+04/09/2025 16:05:45 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7762777242044359 f1: 0.7760956481986985
+04/09/2025 16:06:16 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.050650508042090446
+04/09/2025 16:06:47 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.05034117444732485
+04/09/2025 16:07:18 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.04924474255559127
+04/09/2025 16:07:49 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.04913679121629051
+04/09/2025 16:12:34 - INFO - Multimodal ABSA -   epoch: [3] acc: 0.7415621986499518 f1: 0.7442739460996223
+04/09/2025 16:13:05 - INFO - Multimodal ABSA -   epoch: [3] loss: 0.04977994954928405
+04/09/2025 16:13:36 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.06695556640625
+04/09/2025 16:14:07 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.042668711754583546
+04/09/2025 16:14:39 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.054891914617819865
+04/09/2025 16:17:46 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.7058823529411765 f1: 0.6642294383723287
+04/09/2025 16:18:17 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.05426187829656915
+04/09/2025 16:18:48 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.05010235211080756
+04/09/2025 16:19:19 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.04987792147705886
+04/09/2025 16:19:50 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.046025984853670744
+04/09/2025 16:24:32 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.76374156219865 f1: 0.7462549031473191
+04/09/2025 16:25:03 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.04493134620630346
+04/09/2025 16:25:34 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.04373339300828356
+04/09/2025 16:26:06 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.04228784941219316
+04/09/2025 16:26:37 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.0418484345623029
+04/09/2025 16:30:24 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.7859209257473481 f1: 0.7805332553113579
+04/09/2025 16:30:56 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03938484696103007
+04/09/2025 16:31:27 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.037823810801941936
+04/09/2025 16:31:58 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03697220535229539
+04/09/2025 16:32:29 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.037352129002931285
+04/09/2025 16:37:38 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.7801350048216008 f1: 0.7824905761038103
+04/09/2025 16:38:10 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03685439531660397
+04/09/2025 16:38:41 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.0365673417608852
+04/09/2025 16:39:12 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.0363165011844523
+04/09/2025 16:39:43 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03566787908346067
+04/09/2025 16:43:29 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.7135969141755063 f1: 0.6712521135163844
+04/09/2025 16:44:00 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.035713404156071916
+04/09/2025 16:44:31 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03581945947720088
+04/09/2025 16:45:03 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03604493957313985
+04/09/2025 16:45:34 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.035676365721063426
+04/09/2025 16:48:40 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.7685631629701061 f1: 0.7655540734582579
+04/09/2025 16:49:11 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03518054557778211
+04/09/2025 16:49:42 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.03544831838091931
+04/09/2025 16:50:13 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.035317794936950926
+04/09/2025 16:50:44 - INFO - Multimodal ABSA -   epoch: [4] loss: 0.035932488997065
+04/09/2025 16:53:50 - INFO - Multimodal ABSA -   epoch: [4] acc: 0.6624879459980714 f1: 0.5885713575486898
+04/09/2025 16:54:21 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.019441664218902588
+04/09/2025 16:54:52 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02779145344443943
+04/09/2025 16:55:23 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.035055351884741535
+04/09/2025 16:55:54 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.034975018141404635
+04/09/2025 16:59:00 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.759884281581485 f1: 0.7551042517972505
+04/09/2025 16:59:31 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.030222850687363568
+04/09/2025 17:00:02 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.029387234205222993
+04/09/2025 17:00:33 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.027536718212828343
+04/09/2025 17:01:04 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.028512828117978256
+04/09/2025 17:05:42 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.759884281581485 f1: 0.7550075557551492
+04/09/2025 17:06:14 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.027637078892439604
+04/09/2025 17:06:45 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02617291262099793
+04/09/2025 17:07:16 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02453876824318608
+04/09/2025 17:07:48 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.024445442795064408
+04/09/2025 17:41:28 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.76374156219865 f1: 0.755541127984684
+04/09/2025 17:41:59 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02418700114209601
+04/09/2025 17:42:30 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02594755611983426
+04/09/2025 17:43:01 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.025494051909227985
+04/09/2025 17:43:33 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02516197135008456
+04/09/2025 17:46:56 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.781099324975892 f1: 0.7814353747597044
+04/09/2025 17:47:27 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026168381975543116
+04/09/2025 17:47:59 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02605628038087272
+04/09/2025 17:48:30 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026842837711032345
+04/09/2025 17:49:01 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026413835356259914
+04/09/2025 17:56:13 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.7772420443587271 f1: 0.7750317553483485
+04/09/2025 17:56:44 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02605104059367985
+04/09/2025 17:57:16 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.0264028318157137
+04/09/2025 17:57:47 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026628174372678677
+04/09/2025 17:58:18 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026802273968461552
+04/09/2025 18:01:24 - INFO - Multimodal ABSA -   epoch: [5] acc: 0.772420443587271 f1: 0.7622111477113019
+04/09/2025 18:01:55 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.02662387919490752
+04/09/2025 18:02:26 - INFO - Multimodal ABSA -   epoch: [5] loss: 0.026206787588079667
+04/09/2025 18:02:57 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.0535888671875
+04/09/2025 18:03:28 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.02259735522731658
+04/09/2025 18:06:34 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7743490838958534 f1: 0.7689321116799701
+04/09/2025 18:07:05 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.02705624650736324
+04/09/2025 18:07:36 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.02598936086172586
+04/09/2025 18:08:08 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.023657282521902037
+04/09/2025 18:08:39 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.02531465513027267
+04/09/2025 18:12:20 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7791706846673095 f1: 0.7673580465001929
+04/09/2025 18:12:51 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.026218094549126388
+04/09/2025 18:13:22 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.025179516365177824
+04/09/2025 18:13:53 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.023788359402620942
+04/09/2025 18:14:25 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.024359515012410293
+04/09/2025 18:17:30 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.76374156219865 f1: 0.7528354411020142
+04/09/2025 18:18:01 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.023187653368889692
+04/09/2025 18:18:32 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.021522280492811404
+04/09/2025 18:19:04 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.02069842353091676
+04/09/2025 18:19:35 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.019342573554924383
+04/09/2025 18:22:41 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7791706846673095 f1: 0.7736329606600475
+04/09/2025 18:23:12 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.018254609685612405
+04/09/2025 18:23:43 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.01721540787267579
+04/09/2025 18:24:14 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.016345903927967604
+04/09/2025 18:24:45 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.016841747522820697
+04/09/2025 18:36:47 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7367405978784957 f1: 0.7133541127054571
+04/09/2025 18:37:18 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.017248850432870128
+04/09/2025 18:37:50 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.01760388339254777
+04/09/2025 18:38:21 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.017598186673816546
+04/09/2025 18:38:52 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.017254606857541623
+04/09/2025 19:00:59 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7367405978784957 f1: 0.7393099557972053
+04/09/2025 19:01:31 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.017119278886134254
+04/09/2025 19:02:02 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.016783233661900036
+04/09/2025 19:02:33 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.01648791487769181
+04/09/2025 19:03:04 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.016475839398989823
+04/09/2025 19:23:55 - INFO - Multimodal ABSA -   epoch: [6] acc: 0.7444551591128254 f1: 0.7484655691505316
+04/09/2025 19:24:26 - INFO - Multimodal ABSA -   epoch: [6] loss: 0.016361403862126506
+04/09/2025 19:24:57 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.0011211670935153961
+04/09/2025 19:25:28 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.011235300613486248
+04/09/2025 19:26:00 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010387866904861048
+04/09/2025 19:29:07 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7444551591128254 f1: 0.7254348846147878
+04/09/2025 19:29:38 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.012905853536893736
+04/09/2025 19:30:09 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.011503567590433009
+04/09/2025 19:30:40 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.012698393629257938
+04/09/2025 19:31:11 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.011790070302632391
+04/09/2025 19:34:17 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7454194792671167 f1: 0.7253619211101897
+04/09/2025 19:34:48 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.012075133028283584
+04/09/2025 19:35:19 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.011644693091511726
+04/09/2025 19:35:50 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.012269240576070506
+04/09/2025 19:36:21 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.012254773250109032
+04/09/2025 19:39:32 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7627772420443587 f1: 0.7527204901303991
+04/09/2025 19:40:03 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.011392875558379069
+04/09/2025 19:40:34 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010602864813297353
+04/09/2025 19:41:05 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.01007927183447213
+04/09/2025 19:41:37 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009760949999914257
+04/09/2025 19:44:47 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7656702025072324 f1: 0.7656827774853155
+04/09/2025 19:45:19 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009193620968274292
+04/09/2025 19:45:50 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009464416292405898
+04/09/2025 19:46:22 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010114304466392604
+04/09/2025 19:46:53 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010678493933711978
+04/09/2025 19:50:03 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7270973963355835 f1: 0.6972076120593507
+04/09/2025 19:50:34 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010564469945308698
+04/09/2025 19:51:05 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010849460088587427
+04/09/2025 19:51:37 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.010764387277626769
+04/09/2025 19:52:08 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.0103946665864019
+04/09/2025 19:55:18 - INFO - Multimodal ABSA -   epoch: [7] acc: 0.7704918032786885 f1: 0.769595357403894
+04/09/2025 19:55:49 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009986289668691056
+04/09/2025 19:56:20 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009819590851016666
+04/09/2025 19:56:52 - INFO - Multimodal ABSA -   epoch: [7] loss: 0.009854016120377783
+04/09/2025 19:57:23 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.002643585205078125
+04/09/2025 20:00:33 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.76374156219865 f1: 0.751128547427179
+04/09/2025 20:01:04 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.013628421291228264
+04/09/2025 20:01:35 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.0113714014897581
+04/09/2025 20:02:07 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.011834039137913631
+04/09/2025 20:02:38 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.010119752943023178
+04/09/2025 20:05:48 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7685631629701061 f1: 0.7684528173940836
+04/09/2025 20:06:19 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.009083625101885259
+04/09/2025 20:06:51 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.008302501222705315
+04/09/2025 20:07:22 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.00853305264106859
+04/09/2025 20:07:53 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.008997674304914672
+04/09/2025 20:11:03 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7782063645130183 f1: 0.7793371656716787
+04/09/2025 20:11:35 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.008902949600642017
+04/09/2025 20:12:06 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.00845349706288588
+04/09/2025 20:12:38 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.007866912377925077
+04/09/2025 20:13:09 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.0074400517088554574
+04/09/2025 20:17:58 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7839922854387656 f1: 0.7818807859866564
+04/09/2025 20:18:29 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006888647975824069
+04/09/2025 20:19:01 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006542067346550224
+04/09/2025 20:19:32 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006458318947159794
+04/09/2025 20:20:04 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006080539583416342
+04/09/2025 20:35:32 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7917068466730954 f1: 0.7864094697745704
+04/09/2025 20:36:03 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006437819181356412
+04/09/2025 20:36:35 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.00631770342863862
+04/09/2025 20:37:06 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006874739914975943
+04/09/2025 20:37:37 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.007296700842566974
+04/09/2025 20:40:48 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7772420443587271 f1: 0.7681720461234678
+04/09/2025 20:41:19 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.007399018989689943
+04/09/2025 20:41:51 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.007130017799977636
+04/09/2025 20:42:22 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006848435153491935
+04/09/2025 20:42:53 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006993856906229514
+04/09/2025 20:46:05 - INFO - Multimodal ABSA -   epoch: [8] acc: 0.7888138862102217 f1: 0.7845455095517712
+04/09/2025 20:46:36 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006918297864784414
+04/09/2025 20:47:07 - INFO - Multimodal ABSA -   epoch: [8] loss: 0.006760850987574813
+04/09/2025 20:47:38 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.0003832802176475525
+04/09/2025 20:48:10 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.006732476794201395
+04/09/2025 20:51:20 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.7772420443587271 f1: 0.7702971167520661
+04/09/2025 20:51:52 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004668991032399629
+04/09/2025 20:52:23 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004501455797339385
+04/09/2025 20:52:54 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.0043107258046374605
+04/09/2025 20:53:26 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004359755171350686
+04/09/2025 20:56:38 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.7791706846673095 f1: 0.7635685390302187
+04/09/2025 20:57:09 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004454624287936152
+04/09/2025 20:57:41 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.005729443467823805
+04/09/2025 20:58:12 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.006382023217156529
+04/09/2025 20:58:44 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.005847212943163785
+04/09/2025 21:01:53 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.789778206364513 f1: 0.7868571141023712
+04/09/2025 21:02:25 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.005620649909671349
+04/09/2025 21:02:56 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.005273824826830384
+04/09/2025 21:03:27 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004954039257891635
+04/09/2025 21:03:59 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.0047931446524089195
+04/09/2025 21:08:19 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.772420443587271 f1: 0.7652419905880732
+04/09/2025 21:08:50 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004488365229116668
+04/09/2025 21:09:22 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.00422987201183139
+04/09/2025 21:09:53 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004198305308818817
+04/09/2025 21:10:24 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004170464925439639
+04/09/2025 21:37:10 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.7782063645130183 f1: 0.7702315523194355
+04/09/2025 21:37:42 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004246835121147924
+04/09/2025 21:38:13 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004055840570365203
+04/09/2025 21:38:44 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004006815421116816
+04/09/2025 21:39:16 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.004173076097441162
+04/09/2025 22:20:23 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.7560270009643202 f1: 0.7571242153421834
+04/09/2025 22:20:54 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.0040285522944828464
+04/09/2025 22:21:26 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.0038687284539846794
+04/09/2025 22:21:57 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.003978330156077509
+04/09/2025 22:22:29 - INFO - Multimodal ABSA -   epoch: [9] loss: 0.003918103932089345
+04/09/2025 22:42:33 - INFO - Multimodal ABSA -   epoch: [9] acc: 0.7714561234329798 f1: 0.7726808349954873
+04/09/2025 22:43:04 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.00494384765625
+04/09/2025 22:43:35 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.0010462480206643381
+04/09/2025 22:44:07 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.002600609279069744
+04/09/2025 22:44:38 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.0031964955749092523
+04/09/2025 23:18:33 - INFO - Multimodal ABSA -   epoch: [10] acc: 0.7762777242044359 f1: 0.7707437320738605
+04/09/2025 23:19:05 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.0025584096750937216
+04/09/2025 23:19:36 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.0026369308004316116
+04/09/2025 23:20:07 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.0032524288688575366
+04/09/2025 23:20:38 - INFO - Multimodal ABSA -   epoch: [10] loss: 0.003056433811006953

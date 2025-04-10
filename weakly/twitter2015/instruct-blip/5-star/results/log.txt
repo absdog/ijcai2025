@@ -1,0 +1,2 @@
+01/05/2025 09:10:18 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/instructblip-flan-t5-xxl', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:6', model_seed=20240, prefix='test', save_path='./results/')
+01/05/2025 09:10:18 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037

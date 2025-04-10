@@ -1,0 +1,4 @@
+01/04/2025 14:40:16 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/laptop', dataset='laptop', result_path='../second/results/sec-results.json', model_name='../../../../../models/flan-t5-xxl', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/04/2025 14:40:16 - INFO - Multimodal ABSA -   zero-shot, pendding set: 632
+01/23/2025 18:13:48 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter14', dataset='twitter14', result_path='../second/results/sec-results.json', model_name='../../../../../models/flan-t5-xxl', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/23/2025 18:13:48 - INFO - Multimodal ABSA -   zero-shot, pendding set: 677

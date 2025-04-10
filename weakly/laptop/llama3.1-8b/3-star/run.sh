@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python zero-shot.py --prefix test --model_seed 20250

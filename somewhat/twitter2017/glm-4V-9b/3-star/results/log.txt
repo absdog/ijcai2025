@@ -1,0 +1,2 @@
+01/05/2025 09:59:49 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2017', model_name='../../../../../models/glm-4v-9b', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/05/2025 09:59:49 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1234

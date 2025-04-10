@@ -1,0 +1,1 @@
+python zero-shot.py --device cuda:1 --prefix test --model_seed 20250

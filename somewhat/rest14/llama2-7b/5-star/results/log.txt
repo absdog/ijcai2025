@@ -1,0 +1,8 @@
+01/04/2025 15:02:37 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/laptop', dataset='laptop', result_path='../second/results/sec-results.json', model_name='../../../../../models/llama-2-7b-chat-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/04/2025 15:02:37 - INFO - Multimodal ABSA -   zero-shot, pendding set: 632
+01/23/2025 16:59:51 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/rest14', dataset='rest14', result_path='../second/results/sec-results.json', model_name='../../../../../models/llama-2-7b-chat-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/23/2025 16:59:51 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1119
+01/23/2025 23:25:52 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/rest14', dataset='rest14', result_path='../second/results/sec-results.json', model_name='../../../../../models/llama-2-7b-chat-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/23/2025 23:25:52 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1119
+01/24/2025 10:38:50 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/rest14', dataset='rest14', result_path='../second/results/sec-results.json', model_name='../../../../../models/llama-2-7b-chat-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/24/2025 10:38:50 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1119

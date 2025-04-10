@@ -1,0 +1,10 @@
+01/04/2025 23:46:58 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/llama3.2-v-11b-instruct-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:1', model_seed=20250, prefix='test', save_path='./results/')
+01/04/2025 23:46:58 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037
+01/23/2025 19:56:12 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/llama3.2-v-11b-instruct-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:1', model_seed=20250, prefix='test', save_path='./results/')
+01/23/2025 19:56:12 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037
+01/24/2025 01:52:38 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/llama3.2-v-11b-instruct-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:1', model_seed=20250, prefix='test', save_path='./results/')
+01/24/2025 01:52:38 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037
+01/24/2025 10:53:53 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/llama3.2-v-11b-instruct-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:1', model_seed=20250, prefix='test', save_path='./results/')
+01/24/2025 10:53:53 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037
+01/24/2025 11:28:58 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter', dataset='twitter2015', model_name='../../../../../models/llama3.2-v-11b-instruct-hf', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:6', model_seed=20250, prefix='test', save_path='./results/')
+01/24/2025 11:28:58 - INFO - Multimodal ABSA -   zero-shot, pendding set: 1037

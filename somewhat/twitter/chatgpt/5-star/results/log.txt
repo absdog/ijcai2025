@@ -1,0 +1,6 @@
+01/04/2025 14:52:51 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/laptop', dataset='laptop', result_path='../second/results/sec-results.json', model_name='../../../../../models/flan-t5-large', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/04/2025 14:52:51 - INFO - Multimodal ABSA -   zero-shot, pendding set: 632
+01/23/2025 17:58:30 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter14', dataset='twitter14', result_path='../second/results/sec-results.json', model_name='../../../../../models/flan-t5-large', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/23/2025 17:58:30 - INFO - Multimodal ABSA -   zero-shot, pendding set: 677
+01/24/2025 00:39:46 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter14', dataset='twitter14', result_path='../second/results/sec-results.json', model_name='../../../../../models/flan-t5-large', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', save_path='./results/')
+01/24/2025 00:39:46 - INFO - Multimodal ABSA -   zero-shot, pendding set: 677

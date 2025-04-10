@@ -1,0 +1,17 @@
+01/04/2025 15:28:59 - INFO - Multimodal ABSA -   Namespace(data_dir='../../../../../data/twitter14', dataset='twitter14', result_path='../second/results/sec-results.json', model_name='../../../../../models/glm-4-9b-chat', max_new_tokens=100, log_name='t15-ft-llava-7b', save_dir='./results', device='cuda:0', model_seed=20250, prefix='test', tokenizer=ChatGLM4Tokenizer(name_or_path='../../../../../models/glm-4-9b-chat', vocab_size=151329, model_max_length=128000, is_fast=False, padding_side='left', truncation_side='right', special_tokens={'eos_token': '<|endoftext|>', 'pad_token': '<|endoftext|>', 'additional_special_tokens': ['<|endoftext|>', '[MASK]', '[gMASK]', '[sMASK]', '<sop>', '<eop>', '<|system|>', '<|user|>', '<|assistant|>', '<|observation|>', '<|begin_of_image|>', '<|end_of_image|>', '<|begin_of_video|>', '<|end_of_video|>']}, clean_up_tokenization_spaces=False),  added_tokens_decoder={
+	151329: AddedToken("<|endoftext|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151330: AddedToken("[MASK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151331: AddedToken("[gMASK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151332: AddedToken("[sMASK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151333: AddedToken("<sop>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151334: AddedToken("<eop>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151335: AddedToken("<|system|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151336: AddedToken("<|user|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151337: AddedToken("<|assistant|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151338: AddedToken("<|observation|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151339: AddedToken("<|begin_of_image|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151340: AddedToken("<|end_of_image|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151341: AddedToken("<|begin_of_video|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	151342: AddedToken("<|end_of_video|>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+}, save_path='./results/')
+01/04/2025 15:28:59 - INFO - Multimodal ABSA -   zero-shot, pendding set: 677
